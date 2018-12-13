@@ -26,11 +26,11 @@ exec amor
 
 the configs are running :)
 
-### Do I always exec the command??
+### Do I always execute the command??
 
 No! You can make the csgo execute the cfg file when it starts!
 
-## Setup cfg
+### Execute automatically the CFG
 
 How to make a csgo automatically execute your cfg when it starts
 
@@ -38,6 +38,6 @@ How to make a csgo automatically execute your cfg when it starts
 * Launch options
 * Set up the follwing code in the line
 
-``
+```
 +exec amor
-``
+```
