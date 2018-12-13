@@ -14,15 +14,13 @@ Put the steamCMD in a folder (trust me, you have to do this), because it will do
 ```
 login anonymous
 ```
-
 ```
 force_install_dir csgoserver
-
 ```
-
 ```
 app_update 740 validate
 ```
+
 wait the download, it will take a time
 
 ### Setting UP the server config
