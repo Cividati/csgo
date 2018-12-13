@@ -1,2 +1,2 @@
 # csgo
-csgo configs
+Counter Strike Global Offencive configurations
